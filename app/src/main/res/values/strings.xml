@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAsyncTask</string>
+    <string name="image_test">Image Test</string>
+    <string name="progressbar_test">progressbar test</string>
+</resources>
